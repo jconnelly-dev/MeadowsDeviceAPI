@@ -49,7 +49,7 @@ Project Link: [@github_repo](https://github.com/jconnelly-dev/MeadowsDeviceAPI)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://github.com/jconnelly-dev/MeadowsDeviceAPI/graphs/contributors.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/jconnelly-dev/MeadowsDeviceAPI/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/joseph-a-connelly
