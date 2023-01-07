@@ -31,3 +31,4 @@ C:\MeadowsGPS\MeadowsDeviceAPI\DeviceAPI\obj\Debug\net7.0\refint\DeviceAPI.dll
 C:\MeadowsGPS\MeadowsDeviceAPI\DeviceAPI\obj\Debug\net7.0\DeviceAPI.pdb
 C:\MeadowsGPS\MeadowsDeviceAPI\DeviceAPI\obj\Debug\net7.0\DeviceAPI.genruntimeconfig.cache
 C:\MeadowsGPS\MeadowsDeviceAPI\DeviceAPI\obj\Debug\net7.0\ref\DeviceAPI.dll
+C:\MeadowsGPS\MeadowsDeviceAPI\DeviceAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
